@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="listBox1.Items" xml:space="preserve">
+    <value>Politique de confidentialité pour OnyxHotel</value>
+  </data>
+  <data name="listBox1.Items1" xml:space="preserve">
+    <value>Chez OnyxHotel, accessible depuis OnyHotel, l’une de nos principales priorités est la vie privée de nos visiteurs. Ce document de politique de confidentialité contient les types d’informations collectées et enregistrées par OnyxHotel et la façon dont nous les utilisons.</value>
+  </data>
+  <data name="listBox1.Items3" xml:space="preserve">
+    <value>Si vous avez d’autres questions ou souhaitez plus d’informations sur notre Politique de confidentialité, n’hésitez pas à nous contacter.</value>
+  </data>
+  <data name="listBox1.Items5" xml:space="preserve">
+    <value>Cette politique de confidentialité s’applique uniquement à nos activités en ligne et est valable pour les visiteurs de notre site Web en ce qui concerne les informations qu’ils ont partagées et/ou collectées sur OnyxHotel. Cette politique ne s’applique pas aux informations collectées hors ligne ou via les canaux </value>
+  </data>
+  <data name="listBox1.Items6" xml:space="preserve">
+    <value>autre que ce site web. Notre politique de confidentialité a été créée avec l’aide du générateur de politique de confidentialité gratuit.</value>
+  </data>
+  <data name="listBox1.Items8" xml:space="preserve">
+    <value>Consentement</value>
+  </data>
+  <data name="listBox1.Items9" xml:space="preserve">
+    <value>En utilisant notre site Web, vous acceptez notre Politique de confidentialité et acceptez ses conditions.</value>
+  </data>
+  <data name="listBox1.Items11" xml:space="preserve">
+    <value>Informations que nous recueillons</value>
+  </data>
+  <data name="listBox1.Items12" xml:space="preserve">
+    <value>Les renseignements personnels que l’on vous demande de fournir, et les raisons pour lesquelles on vous demande de les fournir, vous seront clairement expliqués au moment où nous vous demanderons de fournir vos renseignements personnels.</value>
+  </data>
+  <data name="listBox1.Items14" xml:space="preserve">
+    <value>Si vous nous contactez directement, nous pouvons recevoir des informations supplémentaires vous concernant, telles que votre nom, votre adresse e-mail, votre numéro de téléphone, le contenu du message et/ou des pièces jointes que vous pourriez nous envoyer, ainsi que toute autre information que vous pourriez choisir de nous fournir.</value>
+  </data>
+  <data name="listBox1.Items16" xml:space="preserve">
+    <value>Lorsque vous vous inscrivez à un Compte, nous pouvons vous demander vos coordonnées, notamment votre nom, la raison sociale, l’adresse, l’adresse électronique et le numéro de téléphone.</value>
+  </data>
+  <data name="listBox1.Items18" xml:space="preserve">
+    <value>Comment nous utilisons vos informations</value>
+  </data>
+  <data name="listBox1.Items19" xml:space="preserve">
+    <value>Nous utilisons les informations que nous recueillons de différentes façons, notamment pour:</value>
+  </data>
+  <data name="listBox1.Items21" xml:space="preserve">
+    <value>Fournir, exploiter et maintenir notre site Web</value>
+  </data>
+  <data name="listBox1.Items22" xml:space="preserve">
+    <value>Améliorer, personnaliser et élargir notre site Web</value>
+  </data>
+  <data name="listBox1.Items23" xml:space="preserve">
+    <value>Comprendre et analyser comment vous utilisez notre site Web</value>
+  </data>
+  <data name="listBox1.Items24" xml:space="preserve">
+    <value>Développer de nouveaux produits, services, fonctionnalités et fonctionnalités</value>
+  </data>
+  <data name="listBox1.Items25" xml:space="preserve">
+    <value>Communiquer avec vous, directement ou par l’intermédiaire de l’un de nos partenaires, y compris pour le service à la clientèle, pour vous fournir des mises à jour et d’autres informations relatives au site Web, ainsi qu’à des fins de marketing et de promotion.</value>
+  </data>
+  <data name="listBox1.Items26" xml:space="preserve">
+    <value>Vous envoyer des courriels</value>
+  </data>
+  <data name="listBox1.Items27" xml:space="preserve">
+    <value>Détecter et prévenir la fraude</value>
+  </data>
+  <data name="listBox1.Items28" xml:space="preserve">
+    <value>Fichiers journaux</value>
+  </data>
+  <data name="listBox1.Items29" xml:space="preserve">
+    <value>OnyxHotel suit une procédure standard d’utilisation des fichiers journaux. Ces fichiers journalisent les visiteurs lorsqu’ils visitent des sites Web. Toutes les sociétés d’hébergement font cela et une partie de l’analyse des services d’hébergement. Les informations recueillies par les fichiers journaux comprennent les adresses IP, le type de navigateur, Internet </value>
+  </data>
+  <data name="listBox1.Items30" xml:space="preserve">
+    <value>Fournisseur de services (FAI), date et heure, pages de référence/sortie, et éventuellement le nombre de clics. Ceux-ci ne sont pas liés à des informations personnellement identifiables. L’information a pour but d’analyser les tendances, d’administrer le site, de suivre les déplacements des utilisateurs sur le site Web et de recueillir des données démographiques.</value>
+  </data>
+  <data name="listBox1.Items32" xml:space="preserve">
+    <value>Cookies et balises Web</value>
+  </data>
+  <data name="listBox1.Items33" xml:space="preserve">
+    <value>Comme tout autre site web, OnyxHotel utilise des «cookies.» Ces cookies sont utilisés pour stocker des informations, y compris les préférences des visiteurs, et les pages du site Web que le visiteur a consultées ou visitées. L’information est utilisée pour optimiser l’expérience des utilisateurs en personnalisant le contenu de notre page Web en fonction du type de navigateur des visiteurs et/ou d’autres informations.</value>
+  </data>
+  <data name="listBox1.Items35" xml:space="preserve">
+    <value>Advertising Partners Politiques de confidentialité</value>
+  </data>
+  <data name="listBox1.Items36" xml:space="preserve">
+    <value>Vous pouvez consulter cette liste pour trouver la politique de confidentialité de chacun des partenaires publicitaires d’OnyxHotel.</value>
+  </data>
+  <data name="listBox1.Items38" xml:space="preserve">
+    <value>Les serveurs publicitaires tiers ou les réseaux publicitaires utilisent des technologies comme les cookies, JavaScript ou Web Beacons qui sont utilisés dans leurs publicités et liens respectifs qui apparaissent sur OnyxHotel, et qui sont envoyés directement au navigateur des utilisateurs. Ils reçoivent automatiquement votre adresse IP lorsque cela se produit. Ces technologies sont utilisées pour mesurer l’efficacité de leurs campagnes publicitaires et/ou pour personnaliser </value>
+  </data>
+  <data name="listBox1.Items39" xml:space="preserve">
+    <value>le contenu publicitaire que vous voyez sur les sites Web que vous visitez.</value>
+  </data>
+  <data name="listBox1.Items41" xml:space="preserve">
+    <value>Notez que OnyxHotel n’a aucun accès ou contrôle sur ces cookies qui sont utilisés par des annonceurs tiers.</value>
+  </data>
+  <data name="listBox1.Items43" xml:space="preserve">
+    <value>Politiques de confidentialité de tiers</value>
+  </data>
+  <data name="listBox1.Items44" xml:space="preserve">
+    <value>La politique de confidentialité d’OnyxHotel ne s’applique pas aux autres annonceurs ou sites Web. Par conséquent, nous vous conseillons de consulter les politiques de confidentialité respectives de ces serveurs publicitaires tiers pour des informations plus détaillées. Il peut inclure leurs pratiques et instructions sur la façon de refuser certaines options.</value>
+  </data>
+  <data name="listBox1.Items46" xml:space="preserve">
+    <value>Vous pouvez choisir de désactiver les cookies via les options de votre navigateur individuel. Pour connaître des informations plus détaillées sur la gestion des cookies avec des navigateurs Web spécifiques, vous pouvez les trouver sur les sites Web respectifs des navigateurs.</value>
+  </data>
+  <data name="listBox1.Items48" xml:space="preserve">
+    <value>Droit à la vie privée de l’ACFPC (Ne vendez pas mes renseignements personnels) </value>
+  </data>
+  <data name="listBox1.Items49" xml:space="preserve">
+    <value>En vertu de la LCPA, entre autres droits, les consommateurs californiens ont le droit:</value>
+  </data>
+  <data name="listBox1.Items51" xml:space="preserve">
+    <value>Demander à une entreprise qui recueille les données personnelles d’un consommateur de divulguer les catégories et les éléments particuliers de données personnelles qu’elle a recueillis sur les consommateurs.</value>
+  </data>
+  <data name="listBox1.Items53" xml:space="preserve">
+    <value>Demander à une entreprise de supprimer toute donnée personnelle sur le consommateur qu’elle a recueillie.</value>
+  </data>
+  <data name="listBox1.Items55" xml:space="preserve">
+    <value>Demander à une entreprise qui vend des données personnelles d’un consommateur de ne pas les vendre.</value>
+  </data>
+  <data name="listBox1.Items57" xml:space="preserve">
+    <value>Si vous faites une demande, nous avons un mois pour vous répondre. Si vous souhaitez exercer l’un de ces droits, veuillez nous contacter.</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>406, 25</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>OnyxHotel politique de confidentialité</value>
+  </data>
+  <data name="guna2Button1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAs9JREFUaEPt
+        mMeqFEEUQJ9pY/gAwbAx6xeY1oaVAXGh4FpdiSiCH6AYNooBXBo2ZkVwaULRP1AU/AnDwnDO410omu55
+        M13Vb96iDxyYqe6+1TNddW9VT/T09PT0zDZW4m48jqen9PMuXIGzko14Cb/hv2n8ihdwPY6ddfgE/2Ld
+        zQ7Sax7hWpxx5uJZ/I3VG/uBr/A2Xp7Sz7b9xOr5v/AMGnNGWIQvsHojj3EverwJj+3Dp1i9/hkOurYI
+        dvAO047f42YclS34AdNYb7GzH+Ejrv7zV3E+tmUBXsM0pk+ik+HkmE87OoGlOIlpbOdEUdagky06uIKl
+        SZ+EyaFodjJVRnDHfM6wacLh9BGjnwdYBItUmufbTNhh2YbRzx8sUuwuYgQ1VXaNkzj6O29DLunyYI8N
+        DczDg7h/8lt7rBPR3xcbcnDxFcGssE052nafTpxrQWvLYkwr9jJsjavKCORSoI6l+AnjPDXl5vAaI9ZO
+        G9riMjgC3bGhwib8jnFO+BJjKT3Iw1hXtO5ixDpqQ1ssKBHIyVzlM8bxth7BKmniyCpq4/oB7i3ieNYP
+        OIYRaJQh5Bg+N4SHsG4I3cOIlTWExjWJ32DEyprEaRo1tZni6iiZRpdguu7KSqPiHnaYG7OQmVUOTH5r
+        j4Uw+nOOZeMGPAK6k+qa5xj9OU+y2YDpYm4rdsV2jH5czPnSoAi+PYjAbgNd+pbGmGkyuI/FWI3pxLqF
+        pbmBEd++ir9uSYuaug0sxSlMY/u9OBacdK2u1zFnOHntTUxjmo7nYCcsRF99pB26DXQnNSpO2GoBtILb
+        R6dYtKpPQk2x5vCmYice85w0VYb+853ffOBwck6kEzu0YrsUcO0UrxZdHtvWdL5jvrNhMwhftzxEc3b1
+        xqbTa0yVq3Ds+PbADbh72LqbTXV5YIUtVqRKsxxdQboMjp2Xn3dg9sKsp6enp6cgExP/AU7dY8vm8hMg
+        AAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+</root>
